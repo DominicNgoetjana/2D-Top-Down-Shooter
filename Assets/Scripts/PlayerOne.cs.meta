@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc480d9bd6d00c844b331cb8a3294374
+timeCreated: 1523027899
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 1903833813765098, guid: a1b2c15ee250b054a869a0f106860810, type: 2}
+  - bulletSpawnPoint: {fileID: 1475826322763816, guid: 48478db7e81e7364aae0fb11b7caae63,
+      type: 2}
+  - playerPrefab: {fileID: 1020584751519526, guid: 48478db7e81e7364aae0fb11b7caae63,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

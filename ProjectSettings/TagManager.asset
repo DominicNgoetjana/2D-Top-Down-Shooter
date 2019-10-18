@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerOne
+  - Obstacle
+  - Enemy
+  - Wood
+  - Glass
+  - Bullet
+  - RedBox
+  - Explode
+  - GreenBox
+  - EndScene1
+  - Coin
+  - PlayerTwo
+  - BossEnemy1
+  - BossEnemy2
+  - BossEnemy3
+  - Block1
+  - Block2
+  - Block3
+  - P1Stats
+  - P2Stats
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Obstacle
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3500690295
+    locked: 0
+  - name: Obstacles
+    uniqueID: 61648115
+    locked: 0
+  - name: Player
+    uniqueID: 1182698227
+    locked: 0
